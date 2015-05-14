@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StrategyDesignPattern", "StrategyDesignPattern\StrategyDesignPattern.vcxproj", "{FC5B121A-2A5C-488A-99BE-66952BA330BC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FactoryMethodDesignPattern", "FactoryMethodDesignPattern\FactoryMethodDesignPattern.vcxproj", "{B7764FD3-C869-4C7B-A0CC-69076B551294}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SingletonDesignPattern", "SingletonDesignPattern\SingletonDesignPattern.vcxproj", "{B7C22EBC-9B3A-453E-AFCC-53AE700E23AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC5B121A-2A5C-488A-99BE-66952BA330BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC5B121A-2A5C-488A-99BE-66952BA330BC}.Debug|Win32.Build.0 = Debug|Win32
+		{FC5B121A-2A5C-488A-99BE-66952BA330BC}.Release|Win32.ActiveCfg = Release|Win32
+		{FC5B121A-2A5C-488A-99BE-66952BA330BC}.Release|Win32.Build.0 = Release|Win32
+		{B7764FD3-C869-4C7B-A0CC-69076B551294}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B7764FD3-C869-4C7B-A0CC-69076B551294}.Debug|Win32.Build.0 = Debug|Win32
+		{B7764FD3-C869-4C7B-A0CC-69076B551294}.Release|Win32.ActiveCfg = Release|Win32
+		{B7764FD3-C869-4C7B-A0CC-69076B551294}.Release|Win32.Build.0 = Release|Win32
+		{B7C22EBC-9B3A-453E-AFCC-53AE700E23AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B7C22EBC-9B3A-453E-AFCC-53AE700E23AB}.Debug|Win32.Build.0 = Debug|Win32
+		{B7C22EBC-9B3A-453E-AFCC-53AE700E23AB}.Release|Win32.ActiveCfg = Release|Win32
+		{B7C22EBC-9B3A-453E-AFCC-53AE700E23AB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
